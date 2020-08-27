@@ -1,0 +1,1 @@
+It is not recommended to classify the people in the dataset using the age and credit_amount only, because, as observable in Figure credit_age.png, there is no significant pattern observable in the data. In other words: the data does not split in two sepearte areas, the points in the figure are not seperated.
